@@ -17,7 +17,7 @@ While experts have put the [median incubation period at 5.1 days](https://annals
 
 While the data used is very likely the best data available at this time, the data is far from perfect. [Testing shortages and tests with low accuracy](https://fivethirtyeight.com/features/there-are-not-enough-covid-19-tests-there-are-also-too-many-covid-19-tests/) are not only preventing a forseeable end the country being shut down, they are making it impossible to have the fully accurate numbers. These limitations will effect the day to day accuracy, but hopefully not the data as a whole.
 
-<img src='Images/Illinois-2020-04-01.png'>
+<img src='Images/Georgia-2020-05-06.png'>
 
 ### The Current State of the Data
 
